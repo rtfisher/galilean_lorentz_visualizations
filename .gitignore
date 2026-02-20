@@ -3,4 +3,5 @@ __pycache__/
 *.mp4
 *.gif
 *.png
+!lorentz_preview.png
 .pytest_cache/

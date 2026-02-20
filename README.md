@@ -2,8 +2,11 @@
 
 [![CI](https://github.com/rtfisher/galilean_lorentz_visualizations/actions/workflows/ci.yml/badge.svg)](https://github.com/rtfisher/galilean_lorentz_visualizations/actions/workflows/ci.yml)
 
-Animated spacetime diagrams for PHY 213 demonstrating Galilean and Lorentz
-coordinate transformations and the relativity of simultaneity.
+![Lorentz visualization preview](lorentz_preview.png)
+
+Animated spacetime diagrams for sophomore-level modern physics students
+demonstrating Galilean and Lorentz coordinate transformations and the
+relativity of simultaneity.
 
 ---
 
